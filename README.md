@@ -1,2 +1,2 @@
-# connect_four_mini_game
+# Connect Four Mini-Game Project
 play connect four game with user define board size
